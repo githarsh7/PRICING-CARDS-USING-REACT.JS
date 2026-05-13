@@ -12,12 +12,6 @@ pricing-cards-using-reactjs.vercel.app
 
 ---
 
-## Preview
-
-![Pricing Cards Preview](https://via.placeholder.com/1200x600.png?text=Pricing+Cards+UI)
-
----
-
 ## Features
 
 - Built with React.js
